@@ -3,7 +3,7 @@
 #### In here you will find
   - Various problems we are and have worked in team meetings along with solutions presented in code (I will try to have multiple languages)
   - A summary of the past meetings which will also be on the newsletter and on AU ACM web site when it is up
-   -- [Last meetings summary]
+    - [Last meetings summary]
   - Helpful links for various programming things
   - Announcements
   - Spelling will probably be atrocious (I program not spell)
