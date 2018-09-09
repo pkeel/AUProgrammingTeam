@@ -33,4 +33,4 @@
    [Learn C#]: <https://www.learncs.org/>
    [Microsoft Virtual Academy]: <https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949>
    [W3 School]: <https://www.w3schools.com/python/default.asp>
-   [Last meetings summary]: <>
+   [Last meetings summary]: <https://github.com/pkeel/AUProgrammingTeam/blob/master/PTsummary090718.pdf>
