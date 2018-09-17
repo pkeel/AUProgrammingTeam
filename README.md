@@ -9,7 +9,11 @@
   - Spelling will probably be atrocious (I program not spell)
   - In response to your question about the above my Markdown editor doesn't have spell check
 ## Announcements
+  - Sorry the last problem we tried was a little hard it didn't look like it when I originally looked at it we will discuss next week
+  - Friday the 21st at the Club House is PyNight(a python programming event) everyone should come
+    - https://www.meetup.com/HackAugusta/events/253679608/ to sign up
   - Nov 3rd will be ACM ICPC competition in Kennesaw, GA
+    - Be thinking about teams
 
 ## Helpful stuff for programmers
 ##### General
@@ -33,4 +37,4 @@
    [Learn C#]: <https://www.learncs.org/>
    [Microsoft Virtual Academy]: <https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949>
    [W3 School]: <https://www.w3schools.com/python/default.asp>
-   [Last meetings summary]: <https://github.com/pkeel/AUProgrammingTeam/blob/master/PTsummary090718.pdf>
+   [Last meetings summary]: <https://github.com/pkeel/AUProgrammingTeam/blob/master/91418Summary.pdf>
