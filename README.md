@@ -1,5 +1,5 @@
 # AU ACM Programming team git repo
-## Next team meeting will be Friday September 14 @ 2pm in UH-131
+## Next team meeting will be Friday September 21 @ 2pm in UH-131
 #### In here you will find
   - Various problems we are and have worked in team meetings along with solutions presented in code (I will try to have multiple languages)
   - A summary of the past meetings which will also be on the newsletter and on AU ACM web site when it is up
