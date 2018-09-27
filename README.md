@@ -1,19 +1,17 @@
 # AU ACM Programming team git repo
-## Next team meeting will be Friday September 21 @ 2pm in UH-131
+## Next team meeting will be Friday September 28 @ 2pm in UH-131
 #### In here you will find
   - Various problems we are and have worked in team meetings along with solutions presented in code (I will try to have multiple languages)
   - A summary of the past meetings which will also be on the newsletter and on AU ACM web site when it is up
-    - [Last meetings summary]
+    - [Last meetings summary] last weeks summary not out yet
   - Helpful links for various programming things
   - Announcements
   - Spelling will probably be atrocious (I program not spell)
   - In response to your question about the above my Markdown editor doesn't have spell check
 ## Announcements
-  - Sorry the last problem we tried was a little hard it didn't look like it when I originally looked at it we will discuss next week
-  - Friday the 21st at the Club House is PyNight(a python programming event) everyone should come
-    - https://www.meetup.com/HackAugusta/events/253679608/ to sign up
+  - I will be available for programming tutoring at next meeting.
   - Nov 3rd will be ACM ICPC competition in Kennesaw, GA
-    - Be thinking about teams
+    - I need team members at next meeting
 
 ## Helpful stuff for programmers
 ##### General
