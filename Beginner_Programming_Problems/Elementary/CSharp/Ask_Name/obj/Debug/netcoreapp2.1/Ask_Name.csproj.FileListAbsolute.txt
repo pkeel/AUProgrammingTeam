@@ -1,0 +1,11 @@
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/bin/Debug/netcoreapp2.1/Ask_Name.deps.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/bin/Debug/netcoreapp2.1/Ask_Name.runtimeconfig.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/bin/Debug/netcoreapp2.1/Ask_Name.runtimeconfig.dev.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/bin/Debug/netcoreapp2.1/Ask_Name.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/bin/Debug/netcoreapp2.1/Ask_Name.pdb
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.csprojAssemblyReference.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.csproj.CoreCompileInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.AssemblyInfoInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.AssemblyInfo.cs
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Ask_Name/obj/Debug/netcoreapp2.1/Ask_Name.pdb

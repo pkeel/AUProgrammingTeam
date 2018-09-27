@@ -1,0 +1,11 @@
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/bin/Debug/netcoreapp2.1/Hello_world.deps.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/bin/Debug/netcoreapp2.1/Hello_world.runtimeconfig.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/bin/Debug/netcoreapp2.1/Hello_world.runtimeconfig.dev.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/bin/Debug/netcoreapp2.1/Hello_world.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/bin/Debug/netcoreapp2.1/Hello_world.pdb
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.csprojAssemblyReference.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.csproj.CoreCompileInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.AssemblyInfoInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.AssemblyInfo.cs
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/Hello_world/obj/Debug/netcoreapp2.1/Hello_world.pdb

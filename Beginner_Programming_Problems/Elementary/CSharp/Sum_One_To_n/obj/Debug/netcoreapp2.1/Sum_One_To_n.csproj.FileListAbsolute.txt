@@ -1,0 +1,11 @@
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/bin/Debug/netcoreapp2.1/Sum_One_To_n.deps.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/bin/Debug/netcoreapp2.1/Sum_One_To_n.runtimeconfig.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/bin/Debug/netcoreapp2.1/Sum_One_To_n.runtimeconfig.dev.json
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/bin/Debug/netcoreapp2.1/Sum_One_To_n.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/bin/Debug/netcoreapp2.1/Sum_One_To_n.pdb
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.csprojAssemblyReference.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.csproj.CoreCompileInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.AssemblyInfoInputs.cache
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.AssemblyInfo.cs
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.dll
+/Users/prestonkeel/Documents/AUProgrammingTeam/Beginner_Programming_Problems/Elementary/CSharp/Sum_One_To_n/obj/Debug/netcoreapp2.1/Sum_One_To_n.pdb
