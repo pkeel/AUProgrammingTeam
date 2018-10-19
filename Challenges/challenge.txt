@@ -1,14 +1,16 @@
-1. Find the mean from the given numbers in the file mean.txt
+1. Write a program the goes over the range of umbers 10 - 1000 inclusive and adds all the even numbers together.
 
-2. Find the median from the given numbers in the file median.txt
+2. Find the mean from the given numbers in the file mean.txt
 
-3. Find the mode from the given numbers in the file mode.txt
+3. Find the median from the given numbers in the file median.txt
 
-4. Find which pirate name appears the most
+4. Find the mode from the given numbers in the file mode.txt
 
-5. In the passwords.txt file find the 2 most commonly used characters, count how many            times they are used and add the amounts up
+5. Find which pirate name appears the most
+
+6. In the passwords.txt file find the 2 most commonly used characters, count how many            times they are used and add the amounts up
    
-6. You are given a list of AND and XOR operations, count the number of Trues resulting from the AND and XOR operations. Use the xor.txt file
+7. You are given a list of AND and XOR operations, count the number of Trues resulting from the AND and XOR operations. Use the xor.txt file
 
-7. Find all the open ports in the pcap file portscan.txt and then add all the open ports together to get a number.
+8. Find all the open ports in the pcap file portscan.txt and then add all the open ports together to get a number.
 
